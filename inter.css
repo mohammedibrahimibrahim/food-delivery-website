@@ -94,7 +94,6 @@ body{
     font-size: 16px;
     padding: 30px;
     margin-top: 1%;
-    /* position: absolute; */
  }
  .menu h3:hover{
     color: #0079ff;
@@ -259,9 +258,6 @@ body{
 .box3 button{
     text-align: center;
     padding:13px;
-    /* float: left; */
-    /* margin-top: -30%; */
-    /* margin-left: 45%; */
     width: 15%;
     border-radius: 23px;
     background-color: rgb(248, 0, 215);
@@ -272,7 +268,6 @@ body{
     margin:20px;
     margin-left: 43%;
     font-size: 15px;
-    /* height: 7vh; */
 }
 .box3 button:hover{
     background-color: rgb(68, 1, 59);
@@ -292,8 +287,6 @@ body{
     width: 60%;
     height: 95vh;
     border: 0cap;
-    /* float: left; */
-    /* padding: 20px; */
     align-items: center;
     justify-content: center;
     margin-left: 35%;
@@ -439,8 +432,6 @@ body{
         width: 62%;
         height: 97vh;
         border: 0cap;
-        /* float: left; */
-        /* padding: 20px; */
         align-items: center;
         justify-content: center;
         margin-left: 35%;
@@ -538,8 +529,6 @@ body{
         width: 64%;
         height: 97vh;
         border: 0cap;
-        /* float: left; */
-        /* padding: 20px; */
         align-items: center;
         justify-content: center;
         margin-left: 35%;
@@ -596,8 +585,6 @@ body{
         width: 65%;
         height: 97vh;
         border: 0cap;
-        /* float: left; */
-        /* padding: 20px; */
         align-items: center;
         justify-content: center;
         margin-left: 35%;
@@ -644,8 +631,6 @@ body{
         width: 65%;
         height: 95vh;
         border: 0cap;
-        /* float: left; */
-        /* padding: 20px; */
         align-items: center;
         justify-content: center;
         margin-left: 35%;
@@ -736,8 +721,6 @@ body{
         width: 65%;
         height: 92vh;
         border: 0cap;
-        /* float: left; */
-        /* padding: 20px; */
         align-items: center;
         justify-content: center;
         margin-left: 35%;
@@ -826,8 +809,6 @@ body{
         width: 65%;
         height: 91vh;
         border: 0cap;
-        /* float: left; */
-        /* padding: 20px; */
         align-items: center;
         justify-content: center;
         margin-left: 35%;
@@ -903,9 +884,7 @@ body{
         margin-left: 3%;
     }
     .box2 img {
-        /* display: grid; */
         height: 14vh;
-        /* float: left; */
         width: 16%;
         align-items: center;
         justify-content: center;
@@ -931,8 +910,6 @@ body{
         width: 65%;
         height: 89vh;
         border: 0cap;
-        /* float: left; */
-        /* padding: 20px; */
         align-items: center;
         justify-content: center;
         margin-left: 35%;
@@ -1013,8 +990,6 @@ body{
         width: 67%;
         height: 86vh;
         border: 0cap;
-        /* float: left; */
-        /* padding: 20px; */
         align-items: center;
         justify-content: center;
         margin-left: 33%;
@@ -1073,9 +1048,7 @@ body{
         font-size: 29px;
     }
     .box2 img {
-        /* display: grid; */
         height: 14vh;
-        /* float: left; */
         width: 16%;
         align-items: center;
         justify-content: center;
@@ -1100,8 +1073,6 @@ body{
         width: 68%;
         height: 86vh;
         border: 0cap;
-        /* float: left; */
-        /* padding: 20px; */
         align-items: center;
         justify-content: center;
         margin-left: 32%;
@@ -1238,8 +1209,6 @@ body{
         width: 87%;
         height: 79vh;
         border: 0cap;
-        /* float: left; */
-        /* padding: 20px; */
         align-items: center;
         justify-content: center;
         margin-left: 7%;
@@ -1293,7 +1262,6 @@ body{
     #dk {
         font-size: 26px;
         width: max-content;
-        /* width: 87%; */
         margin-left: -5%;
     }
     .box1 img {
@@ -1325,8 +1293,6 @@ body{
         width: 92%;
         height: 80vh;
         border: 0cap;
-        /* float: left; */
-        /* padding: 20px; */
         align-items: center;
         justify-content: center;
         margin-left: 5%;
@@ -1476,9 +1442,7 @@ body{
         margin-top: 5%;
     }
     .box2 img {
-        /* display: grid; */
         height: 14vh;
-        /* float: left; */
         width: 17%;
         align-items: center;
         justify-content: center;
@@ -1564,9 +1528,7 @@ body{
         margin-left: 3%;
     }
     .box2 img {
-        /* display: grid; */
         height: 15vh;
-        /* float: left; */
         align-items: center;
         justify-content: center;
         padding: 9px;
@@ -1704,8 +1666,6 @@ body{
         width: 96%;
         height: 77vh;
         border: 0cap;
-        /* float: left; */
-        /* padding: 20px; */
         align-items: center;
         justify-content: center;
         margin-left: 2%;
@@ -1754,7 +1714,6 @@ body{
     #dk {
         font-size: 28px;
         width: max-content;
-        /* width: 87%; */
         margin-left: -10%;
         margin-top: 7%;
     }
@@ -1769,9 +1728,7 @@ body{
         margin-left: 21%;
     }
     .box2 img {
-        /* display: grid; */
         height: 18vh;
-        /* float: left; */
         align-items: center;
         justify-content: center;
         padding: 5px;
